@@ -1,2 +1,2 @@
 # AnnaStore
-API de estudo usando conceitos de DDD
+DDD Concepts API for study
