@@ -1,0 +1,25 @@
+C:\Users\usuario\Desktop\Estudo\AnnaStore\ModernWebStore.Domain\bin\Debug\ModernWebStore.Domain.dll
+C:\Users\usuario\Desktop\Estudo\AnnaStore\ModernWebStore.Domain\bin\Debug\ModernWebStore.Domain.pdb
+C:\Users\usuario\Desktop\Estudo\AnnaStore\ModernWebStore.Domain\bin\Debug\ModernWebStore.SharedKernel.dll
+C:\Users\usuario\Desktop\Estudo\AnnaStore\ModernWebStore.Domain\bin\Debug\ModernWebStore.SharedKernel.pdb
+C:\Users\usuario\Desktop\Estudo\AnnaStore\ModernWebStore.Domain\obj\Debug\AnnaStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Estudo\AnnaStore\ModernWebStore.Domain\obj\Debug\AnnaStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Estudo\AnnaStore\ModernWebStore.Domain\obj\Debug\ModernWebStore.Domain.dll
+C:\Users\usuario\Desktop\Estudo\AnnaStore\ModernWebStore.Domain\obj\Debug\ModernWebStore.Domain.pdb
+C:\Users\usuario\Desktop\Estudo\AnnaStore\AnnaStore.Domain\bin\Debug\AnnaStore.Domain.dll
+C:\Users\usuario\Desktop\Estudo\AnnaStore\AnnaStore.Domain\bin\Debug\AnnaStore.Domain.pdb
+C:\Users\usuario\Desktop\Estudo\AnnaStore\AnnaStore.Domain\bin\Debug\AnnaStore.SharedKernel.dll
+C:\Users\usuario\Desktop\Estudo\AnnaStore\AnnaStore.Domain\bin\Debug\AnnaStore.SharedKernel.pdb
+C:\Users\usuario\Desktop\Estudo\AnnaStore\AnnaStore.Domain\obj\Debug\AnnaStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Estudo\AnnaStore\AnnaStore.Domain\obj\Debug\AnnaStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Estudo\AnnaStore\AnnaStore.Domain\obj\Debug\AnnaStore.Domain.dll
+C:\Users\usuario\Desktop\Estudo\AnnaStore\AnnaStore.Domain\obj\Debug\AnnaStore.Domain.pdb
+D:\C# ASP.NET\Estudo\AnnaStore\AnnaStore.Domain\obj\Debug\AnnaStore.Domain.csprojResolveAssemblyReference.cache
+D:\C# ASP.NET\Estudo\AnnaStore\AnnaStore.Domain\obj\Debug\AnnaStore.Domain.csproj.CoreCompileInputs.cache
+D:\C# ASP.NET\Estudo\AnnaStore\AnnaStore.Domain\bin\Debug\AnnaStore.Domain.dll
+D:\C# ASP.NET\Estudo\AnnaStore\AnnaStore.Domain\bin\Debug\AnnaStore.Domain.pdb
+D:\C# ASP.NET\Estudo\AnnaStore\AnnaStore.Domain\bin\Debug\AnnaStore.SharedKernel.dll
+D:\C# ASP.NET\Estudo\AnnaStore\AnnaStore.Domain\bin\Debug\AnnaStore.SharedKernel.pdb
+D:\C# ASP.NET\Estudo\AnnaStore\AnnaStore.Domain\obj\Debug\AnnaStore.Domain.csproj.CopyComplete
+D:\C# ASP.NET\Estudo\AnnaStore\AnnaStore.Domain\obj\Debug\AnnaStore.Domain.dll
+D:\C# ASP.NET\Estudo\AnnaStore\AnnaStore.Domain\obj\Debug\AnnaStore.Domain.pdb
